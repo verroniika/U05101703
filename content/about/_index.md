@@ -1,9 +1,7 @@
 ---
 title: "About"
 description: "This is my about page"
-featured_image: ''
+featured_image: '/images/header_example.jpg'
 ---
-title="About page" >}}
-
 This is my about page that you can navigate to 
 from every page. 

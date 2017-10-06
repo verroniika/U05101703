@@ -2,4 +2,25 @@ baseURL = "https://ship-chandler-mole-70754.netlify.com"
 languageCode = "en-us"
 title = "Veronikas first Hugo page"
 theme = "ananke"
-featured_image = "/images/header_example.png"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 100 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Welcome"
+  facebook = ""
+  twitter = "http://twitter.com/t4ostra/"
+  instagram = ""
+  youtube = ""
+  github = ""
+  featured_image = "/images/header_example.jpg"
