@@ -2,4 +2,4 @@ baseURL = "https://ship-chandler-mole-70754.netlify.com"
 languageCode = "en-us"
 title = "Veronikas first Hugo page"
 theme = "ananke"
-background_color_class = "light-purple"
+featured_image: 'C:\Users\Admin\Pictures\header_example.jpg'
